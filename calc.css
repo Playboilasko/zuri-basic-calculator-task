@@ -1,0 +1,25 @@
+
+main{
+    background-color: rgb(58, 28, 14);
+    padding:1em;
+    text-align: center;
+    border: 2px solid rgb(87, 86, 86);
+    max-width: 17em;
+}
+td{
+    width: 3em;
+    height: 3em;
+    padding: 2px;
+}
+.display-box{
+    height: 2.5em;
+    width: 12em;
+    margin-left: 1em;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+td .numbers{
+    width: 2.5em;
+    height: 2.5em;
+}
